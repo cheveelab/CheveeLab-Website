@@ -5,6 +5,6 @@
 
   # cheveelab's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[cheveelab.github.io/CheveeLab-Website](https://cheveelab.github.io/CheveeLab-Website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
